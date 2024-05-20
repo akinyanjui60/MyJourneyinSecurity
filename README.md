@@ -1,12 +1,17 @@
 # Hello, I'm Allan
 <a href="(https://www.linkedin.com/in/allan-kinyanjui/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am a recent graduate with a profound interest in technology specificaly in Cyber security and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+| Objective                                          |
+|----------------------------------------------------|
+|Enroll into Cyber track with Coursera               |
+|Understand the Linux Fundermental with Hack The Box |
+|Begin learning penetration tools                    |
+|Document my journey and Adjust as needed            |
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
