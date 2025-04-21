@@ -59,7 +59,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.credly.com/badges/c709e3fc-fd36-4a6c-8b69-a6882c8bd640/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-GIAC%20Certified-005AA7?&style=for-the-badge&logo=Google&logoColor=white" alt="GIAC Certified Badge" />
 </a>
-<script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 
