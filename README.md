@@ -56,7 +56,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-<img src="GFACT.png" />
+<img src="GFACT.png&style=for-the-badge&logoColor=white" />
 <script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
 
