@@ -53,10 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-[View my CompTIA Security+ Certification](https://www.credly.com/badges/your-badge-id)
-<img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
-<img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
-<img src="https://academy.hackthebox.com/achievement/1309402/18" />
+
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
