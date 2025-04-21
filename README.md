@@ -51,9 +51,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://path-to-your-badge-image.com" alt="SC-900 Certification" width="150" height="270" />
+[View my CompTIA Security+ Certification](https://www.credly.com/badges/your-badge-id)
 <img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
 <img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
 <img src="https://academy.hackthebox.com/achievement/1309402/18" />
