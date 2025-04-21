@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology specificaly in Cyb
 ## Objective
 | Objective                                          |
 |----------------------------------------------------|
-|Enroll into Cyber track with Coursera               |
+|Enroll in SANS Institute and get GIAC certs            |
 |Understand the Linux Fundermental with Hack The Box |
 |Begin learning penetration tools                    |
 |Document my journey and Adjust as needed            |
@@ -53,9 +53,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c709e3fc-fd36-4a6c-8b69-a6882c8bd640" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
+<img src="https://academy.hackthebox.com/achievement/1309402/18" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
