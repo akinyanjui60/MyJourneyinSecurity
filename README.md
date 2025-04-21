@@ -16,7 +16,7 @@ I am a recent graduate with a profound interest in technology specificaly in Cyb
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,8 +27,102 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+##Progress
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Checklist Table</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+
+    table {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      border-collapse: collapse;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    caption {
+      font-size: 1.5rem;
+      padding: 15px;
+      background: #0078D4;
+      color: white;
+      font-weight: bold;
+    }
+
+    th, td {
+      padding: 12px 15px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+      background-color: #fafafa;
+    }
+
+    input[type="checkbox"] {
+      transform: scale(1.2);
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<table>
+  <caption>Progress Checklist</caption>
+  <thead>
+    <tr>
+      <th>Complete</th>
+      <th>Step</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Watched SC-900 Prep Videos</td>
+    </tr>
+    <tr>
+      <td><input type="checkbox" checked></td>
+      <td>Completed Linux Fundamentals on HTB</td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Earned GIAC Certification</td>
+    </tr>
+    <tr>
+      <td><input type="checkbox" checked></td>
+      <td>Added Badges to Website</td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Practiced Common Interview Questions</td>
+    </tr>
+    <tr>
+      <td><input type="checkbox"></td>
+      <td>Polished Resume & LinkedIn</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
