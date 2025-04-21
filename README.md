@@ -28,6 +28,64 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Checklist Table with Save</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+
+    table {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      border-collapse: collapse;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    caption {
+      font-size: 1.5rem;
+      padding: 15px;
+      background: #0078D4;
+      color: white;
+      font-weight: bold;
+    }
+
+    th, td {
+      padding: 12px 15px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+      background-color: #fafafa;
+    }
+
+    input[type="checkbox"] {
+      transform: scale(1.2);
+      cursor: pointer;
+    }
+
+    tr.completed td {
+      background-color: #d4edda !important;
+      text-decoration: line-through;
+      color: #155724;
+    }
+  </style>
+</head>
+<body>
+
 <table>
   <caption>Progress Checklist</caption>
   <thead>
@@ -38,31 +96,49 @@ My journey in computer science has led me to develop a passion for cybersecurity
   </thead>
   <tbody>
     <tr>
-      <td><input type="checkbox"></td>
+      <td><input type="checkbox" data-id="step1"></td>
       <td>Watched SC-900 Prep Videos</td>
     </tr>
     <tr>
-      <td><input type="checkbox" checked></td>
+      <td><input type="checkbox" data-id="step2"></td>
       <td>Completed Linux Fundamentals on HTB</td>
     </tr>
     <tr>
-      <td><input type="checkbox"></td>
+      <td><input type="checkbox" data-id="step3"></td>
       <td>Earned GIAC Certification</td>
     </tr>
     <tr>
-      <td><input type="checkbox" checked></td>
+      <td><input type="checkbox" data-id="step4"></td>
       <td>Added Badges to Website</td>
     </tr>
     <tr>
-      <td><input type="checkbox"></td>
+      <td><input type="checkbox" data-id="step5"></td>
       <td>Practiced Common Interview Questions</td>
     </tr>
     <tr>
-      <td><input type="checkbox"></td>
+      <td><input type="checkbox" data-id="step6"></td>
       <td>Polished Resume & LinkedIn</td>
     </tr>
   </tbody>
 </table>
+
+<script>
+  // Load saved progress from localStorage
+  document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+    const stepId = checkbox.getAttribute('data-id');
+    const isChecked = localStorage.getItem(stepId) === 'true';
+    checkbox.checked = isChecked;
+
+    if (isChecked) {
+      checkbox.closest('tr').classList.add('completed');
+    }
+
+    checkbox.addEventListener('change', () => {
+      localStorage.setItem(stepId, checkbox.checked);
+      checkbox.closest('tr').classList.toggle('completed', checkbox.checked);
+    });
+  });
+</script>
 
 </body>
 </html>
