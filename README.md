@@ -53,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c709e3fc-fd36-4a6c-8b69-a6882c8bd640" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
 <img src="https://learn.microsoft.com/en-us/users/allankinyanjui-5660/credentials/ed1d5861d75dee6f?ref=https%3A%2F%2Fwww.linkedin.com%2F" />
 <img src="https://academy.hackthebox.com/achievement/1309402/18" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
