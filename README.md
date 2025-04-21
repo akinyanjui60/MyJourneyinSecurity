@@ -56,8 +56,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://www.credly.com/badges/c709e3fc-fd36-4a6c-8b69-a6882c8bd640/public_url" />
 <script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c709e3fc-fd36-4a6c-8b69-a6882c8bd640" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
+
+
 
 ## Projects
 - Detection Lab
